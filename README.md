@@ -3,7 +3,10 @@
 ![](https://leetcard.jacoblin.cool/deshmukhdaniel?ext=heatmap)
 
 # 💫 About Me:
-Honing my Python skills<br>Love Playing with Ai models<br>Dream of being an Ai Specialist 
+Enhancing my Python proficiency 🐍 <br> 
+Passionate about exploring AI models 🤖  <br>
+Aspiring to become an AI specialist 🚀
+
 
 
 ## 🌐 Socials:
