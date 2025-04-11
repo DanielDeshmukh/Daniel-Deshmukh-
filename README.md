@@ -1,4 +1,4 @@
- <h2> Daniel Deshmukh</h2>
+ <h3> Daniel Deshmukh</h3>
 
 ![](https://leetcard.jacoblin.cool/deshmukhdaniel?ext=heatmap)
 
